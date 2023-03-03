@@ -1,1 +1,18 @@
-# CV
+# Simple CV
+A simple circum vitae built from HTML, CSS.
+
+## Deployment
+
+Demo: https://afshankhan11.github.io/SimpleCV/
+
+
+## Built With
+
+  * HTML
+  * CSS
+
+
+## Authors
+
+  - **Afshan Khan**
+    [AfshanKhan11]
